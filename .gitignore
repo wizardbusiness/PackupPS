@@ -1,0 +1,6 @@
+*.ps1xml
+bin/
+obj/
+.*psd1.back
+.DS_Store
+Thumbs.db
