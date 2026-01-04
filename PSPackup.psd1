@@ -24,16 +24,16 @@ GUID = '77e2b4df-e4fa-4624-9ca7-3bfae893c3ca'
 Author = 'gkime'
 
 # Company or vendor of this module
-CompanyName = 'Unknown'
+CompanyName = 'BadLab'
 
 # Copyright statement for this module
 Copyright = '(c) gkime. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+# Description = 'Bundles powershell scripts with their dependencies in a single file'
 
 # Minimum version of the PowerShell engine required by this module
-# PowerShellVersion = ''
+# PowerShellVersion = '5.1'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
